@@ -1,6 +1,3 @@
-# 💫 About Me:
-Hello! I am a Computer Science Student at Philippines who likes building websites, applicationsa and ML.
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/lance-ian-leanillo-ba6b98254) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/u/renzhend) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:localtradings.com@gmail.com) 
